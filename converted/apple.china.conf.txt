@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]tls://223.6.6.6 h3://223.5.5.5/dns-query
 [/dejavu.apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
+[/devimages-cdn.apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
 [/devstreaming-cdn.apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
 [/download.developer.apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
 [/experiments.apple.com/]tls://223.6.6.6 h3://223.5.5.5/dns-query
